@@ -2,7 +2,7 @@
 
 "Version":"5",
 
-"Url":"https://github.com/MrRKeo/VPNKH2023/blob/main/VPNKH.zip",
+"Url":"https://raw.githubusercontent.com/MrRKeo/VPNKH2023/main/VPNKH.zip",
 
 "Changelog":"
 
